@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kavya-nagaraj1229</h1>
-<h3 align="center">A passionate fill stack developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya-nagaraj1229&label=Profile%20views&color=0e75b6&style=flat" alt="kavya-nagaraj1229" /> </p>
 
